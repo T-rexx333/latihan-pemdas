@@ -24,5 +24,5 @@ int main() {
 
     printf ("%d %d %d", tepat_waktu, terlambat, tidak_hadir);
 
-return 0;
+    return 0;
 }
