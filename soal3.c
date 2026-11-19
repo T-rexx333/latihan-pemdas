@@ -15,10 +15,10 @@ int main() {
         printf ("%d\n", jumlah);
 
     if (total == 0) {
-        printf ("YA\n");
+        printf ("YA");
     }
     else {
-        printf ("TIDAK\n");
+        printf ("TIDAK");
     }
 
     return 0;
